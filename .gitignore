@@ -102,3 +102,7 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+# Ignore directories
+bin/
+bin-int/
+
